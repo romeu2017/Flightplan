@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="db_cognizantConnectionString-Web.config Connection String" description="db_cognizantConnectionString A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="Data Source=sqlserver-cognizant.database.windows.net;Initial Catalog=db_cognizant;Persist Security Info=True;User ID=dan.admin;Password=Romeu2017@" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Wesley\\Desktop\\Flight_Plan\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='db_cognizantConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

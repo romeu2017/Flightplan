@@ -60,24 +60,6 @@ namespace Flight_Plan
         protected global::System.Web.UI.WebControls.TextBox txt_flightNumber;
 
         /// <summary>
-        /// Controle lbl_pax_qtd.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_pax_qtd;
-
-        /// <summary>
-        /// Controle lbl_pax_w.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_pax_w;
-
-        /// <summary>
         /// Controle txt_name_acft.
         /// </summary>
         /// <remarks>
@@ -112,5 +94,23 @@ namespace Flight_Plan
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btn_calculate;
+
+        /// <summary>
+        /// Controle lbl_pax_qtd.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_pax_qtd;
+
+        /// <summary>
+        /// Controle lbl_pax_w.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_pax_w;
     }
 }
